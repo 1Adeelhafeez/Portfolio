@@ -1,0 +1,41 @@
+[
+  
+  
+  {
+    "name": "Hotel Booking System",
+    "desc": "Developed a hotel booking system using HTML,CSS,JavaScript, Bootstrap with a user-friendly interface and responsive design",
+    "image": "3",
+  
+    "links": {
+      "view": "https://travel-planners-web.netlify.app/",
+      "code": "https://github.com/1Adeelhafeez/Hotel-Booking-System-main"
+    }
+  },
+  
+   {
+    "name": "SHEINA Fashion Website",
+    "desc": "Contributed to a fashion e-commerce platform using JSON, HTML, CSS, JavaScript, focusing on data handling, user-friendly interfaces, and seamless account management.",
+    "image": "SHEINA",
+    "category": "basicweb",
+    "links": {
+      "view":"https://sheina.netlify.app/",
+      "code": "https://github.com/1Adeelhafeez/SHEINA-Fashion-Website"
+     
+    }
+  },
+  
+  {
+    "name": "Royal Spice Website",
+    "desc": "I developed the Royal Spice website, featuring secure authentication and booking, using HTML, CSS, and JavaScript.",
+    "image": "RoyalSpice",
+    "category": "basicweb",
+    "links": {
+      "view":"https://royal-spice.netlify.app/",
+      "code": "https://github.com/1Adeelhafeez/ROYAL-SPICE-WEBSITE"
+
+    }
+  }
+  
+  
+  
+]
